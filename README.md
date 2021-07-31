@@ -7,8 +7,7 @@ In the game, if the second car touches the first can, then the  game ends.
 ## Visualization ##
 Those two cars are rotating around a park. This park contains general things like lake, bridge, bench, playground as well as some monuments like shohid minar, sriti shoudho etc. The player can pause the game and make a tour in the park.
 
-
-![](https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![](https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png | width=100)
 
 <figure>
   <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" />
