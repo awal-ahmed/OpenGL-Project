@@ -5,7 +5,7 @@ Player can pause the game whenever he wants. It will not affect the game.
 In the game, if the second car touches the first can, then the  game ends.
 
 ## Visualization ##
-Those two cars are rotating around a park. This park contains general things like lake, bridge, bench, playground as well as some monuments like shohid minar, sriti shoudho etc. The player can pause the game and make a tour in the park.
+Those two cars are rotating around a park. This park contains general things like lake, bridge, bench, playground as well as some monuments like shohid minar, sriti shoudho etc. The player can pause the game and make a tour in the park. Different texture is added in different places like building, field, road etc.
 <video width="400" height="300" controls>
   <source src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/video.mp4" type="mp4">
 Your browser does not support the video tag.
@@ -27,4 +27,25 @@ Shohid Minar
 </figure>
 
 
-This project
+## Controlar ##
+  
+  * Press 'k' to rotate the car left 
+  * Press 'l' to rotate the car right 
+  * Press '4' to look left
+  * Press '6' to look right 
+  * Press '8' to look forward 
+  * Press '5' to look back
+  * Press ',' to rotate left 
+  * Press '.' to rotate right 
+  * Press 'z' to to go up 
+  * Press 'o' to to go down
+  * Press '1' to off/on tubelight 
+  *  Press '2' to off/on spotlight
+  * Press 'a' to off/on ambient  
+  * Press 'd' to off/on diffuse 
+  * Press 's' to off/on specular
+  * Press 'r' to follow/unfollow the car 
+  * Press 'b' to back to top view
+  * Press 'm' to move/pause the game
+  * Press 'q' to quit 
+ Press 'r' before looking at oder direction
