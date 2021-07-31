@@ -12,8 +12,15 @@ Those two cars are rotating around a park. This park contains general things li
   <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" />
   <figcaption>Sriti Shoudho</figcaption>
 </figure>
-![picture alt](https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png "Sriti Shoudho")
-![picture alt](https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/2.png "Bridge")
-![picture alt](https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/3.png "Shohid Minar")
+
+<figure>
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/2.png" alt="Sriti Shoudho" title="Bridge" />
+  <figcaption>Bridge</figcaption>
+</figure>
+
+<figure>
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/3.png" alt="Sriti Shoudho" title="Shohid Minar" />
+  <figcaption>Shohid Minar</figcaption>
+</figure>
 
 This project
