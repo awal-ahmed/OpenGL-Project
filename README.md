@@ -10,7 +10,7 @@ Those two cars are rotating around a park. This park contains general things li
 
 
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" width = "50" height = "50" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" width = "350" height = "350" />
   <figcaption>Sriti Shoudho</figcaption>
 </figure>
 
