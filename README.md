@@ -10,17 +10,17 @@ Those two cars are rotating around a park. This park contains general things li
 
 
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" width = "350" height = "350" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" width = "400" height = "300" />
   <figcaption>Sriti Shoudho</figcaption>
 </figure>
 
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/2.png" alt="Sriti Shoudho" title="Bridge" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/2.png" alt="Sriti Shoudho" title="Bridge" width = "400" height = "300" />
   <figcaption>Bridge</figcaption>
 </figure>
 
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/3.png" alt="Sriti Shoudho" title="Shohid Minar" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/3.png" alt="Sriti Shoudho" title="Shohid Minar" width = "400" height = "300" />
   <figcaption>Shohid Minar</figcaption>
 </figure>
 
