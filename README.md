@@ -8,19 +8,21 @@ In the game, if the second car touches the first can, then the  game ends.
 Those two cars are rotating around a park. This park contains general things like lake, bridge, bench, playground as well as some monuments like shohid minar, sriti shoudho etc. The player can pause the game and make a tour in the park.
 
 
-
+Sriti Shoudho
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho" title="Sriti Shoudho" width = "400" height = "300" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/1.png" alt="Sriti Shoudho"  width = "400" height = "300" />
   <figcaption>Sriti Shoudho</figcaption>
 </figure>
 
+Bridge
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/2.png" alt="Sriti Shoudho" title="Bridge" width = "400" height = "300" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/2.png" alt="Sriti Shoudho"  width = "400" height = "300" />
   <figcaption>Bridge</figcaption>
 </figure>
 
+Shohid Minar
 <figure>
-  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/3.png" alt="Sriti Shoudho" title="Shohid Minar" width = "400" height = "300" />
+  <img src="https://github.com/awal-ahmed/OpenGL-Project/blob/main/material/3.png" alt="Sriti Shoudho"  width = "400" height = "300" />
   <figcaption>Shohid Minar</figcaption>
 </figure>
 
